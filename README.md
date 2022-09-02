@@ -1,4 +1,4 @@
 # hellopico8.html
 Michael Medrano's Pico-8 Repository.
 
-<gif src="snake_game.gif" alt="GIF of Snake Game being booted up in Pico-8" width="500" height="600">
+<img src="Screen Shot 2022-09-02 at 1.22.24 PM" alt="Screen Shot of my Pico-8 Folder" width="500" height="600">
