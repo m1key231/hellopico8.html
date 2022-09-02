@@ -1,5 +1,4 @@
 # hellopico8.html
-Michael Medrano's PICO-8 Repository.
 
 <img src="https://github.com/m1key231/hellopico8.html/blob/main/HelloPico8/snake_game.gif" alt="GIF of Snake Game being booted in PICO-8" width="300" height="300"/>
 
